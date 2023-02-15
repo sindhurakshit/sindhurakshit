@@ -41,7 +41,7 @@ One of the way people reflect creativity is by visual representations, such as i
 Researched and analysed various approaches of text to image generation including Generative Adversarial Network (GAN), Variational Encoder (VAE) and diffusion based models. The open AI GLIDE and CLIP was chosen because enhanced technical capabilities including photo realism. Implemented the photorealistic text to image generation and inpainting systems using diffusion based generative models, using pre-trained, Open AI GLIDE (Guided Language to Image Diffusion for Generation and Editing) and CLIP (Contrastive Language–Image Pre-training) models.
 Advanced Robotics with RoS Feb 2022 to May 2022
 This project was implemented with objective of learning modular RoS programming and advanced robotic concepts. A custom catkin package consisting, different message types, services, topics for calculating, publishing and plotting positional, velocity and acceleration of cubic polynomial trajectories using rqt plot and rosrun/roslaunch was developed.
-   Page 2
+ 
 
 **MLEnd Hums and Whistles** </br>
 Objective of this project was identifying songs based on humming and whistles, an end-to- end machine learning project with involvement in conceptualisation, data-set creation, data cleaning and implementation of feature extraction. 
