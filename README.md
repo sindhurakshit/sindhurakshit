@@ -36,7 +36,7 @@ Git: https://github.com/sindhurakshit/cell-segmentation.  </br>
 **Facial Expression Recognition (FER)** </br>
 Facial Expression Recognition (FER) is a technology endeavour to detect a person’s expressions by analysing static image or video with potential use cases in education, public- safety, crime detection, market research , personalised cars, engaging video games and many more.
 Designed a deep learning model based on VGG19 network with additional three fully connected layers and SoftMax for classification. We applied data augmentation techniques like random horizontal flipping, random vertical flipping, colour jittering , random erasing and centre cropping and further optimised model with ablation study. Key libraries used in the project are torch, torch vision, NumPy, pandas, matplotlib. </br>
-Code: https://github.com/sindhurakshit/FER. </br>
+Git: https://github.com/sindhurakshit/FER. </br>
 
 **Image Synthesis and Inpainting with Generative Models (GLIDE &CLIP)** </br>
 One of the way people reflect creativity is by visual representations, such as illustrations, paintings, and photographs. These artefacts can often be easily described in natural language, but generally require specialized skills and hours of labour to create.
