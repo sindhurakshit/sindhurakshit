@@ -63,7 +63,12 @@ Video: https://youtu.be/hHLWjkeN4vg/.  </br>
 To be updated 
 
 ## Patents 
-To be updated
+<ul>
+<li>
+Multi-tenant counterfeit product detection and digital warranty management system with bilayer encrypted machine-readable codesMulti-tenant counterfeit product detection and digital warranty management system with bilayer encrypted machine-readable codes
+IN 422176
+</li>
+</ul>
 
 
 
