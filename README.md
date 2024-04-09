@@ -59,8 +59,13 @@ This study aimed to analyse the UK GDPR framework (Legislation.gov.uk, 2018) and
 Paper: https://github.com/sindhurakshit/EAD/blob/main/DATA%20PROTECTION%20%26%20PRIVACY%20SAFEGUARDS%20-%20Kumar%20Sindhurakshit.pdf </br>
 Video: https://youtu.be/hHLWjkeN4vg/.  </br>
 
+**Fetal Brain Segmentation** </br>
+The primary objective of this project is to develop a robust and accurate model capable of segmenting fetal brains from medical imaging data. Achieving accurate segmentation is crucial in various medical applications, including prenatal diagnosis, fetal health monitoring, and understanding developmental abnormalities. To accomplish this objective, the model is developed utilizing the HC18 dataset, a comprehensive collection of fetal brain images specifically curated for research and analysis purposes.
+Git: https://github.com/sindhurakshit/FetalBrain
+![image](https://github.com/sindhurakshit/sindhurakshit/assets/29540960/415a3d5a-c9da-4791-80af-bc23870d70b3)
+
 ## Pubilcations 
-To be updated 
+Coming soon...
 
 ## Patents 
 <ul>
