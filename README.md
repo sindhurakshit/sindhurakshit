@@ -1,5 +1,5 @@
 ### Profile
-A dedicated technology leader driven by a hunger for innovation and the development of new products and technologies. With a solid academic background in Computer Science and Artificial Intelligence, coupled with senior management experience, he is passionate about pushing the boundaries of technology and creating impactful solutions. Kumar is eager to contribute to dynamic environments where innovation thrives and where he can continue to learn and grow while making a positive difference.
+A dedicated technology leader driven by a hunger for innovation and the development of new products and technologies. With a academic background in Computer Science and Artificial Intelligence, coupled with senior management experience, he is passionate about pushing the boundaries of technology and creating impactful solutions. Kumar is eager to contribute to dynamic environments where innovation thrives and where he can continue to learn and grow while making a positive difference.
 
 ### Primary Programming Skills
 * Python (Pytorch, Numpy, Scikit, Matplotlib, TensorFlow, Pandas, OpenCV, Flask)
